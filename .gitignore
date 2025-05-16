@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Pycharm files
+.idea
+
+# data and results
+datasets/
+log/
